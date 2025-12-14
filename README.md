@@ -157,3 +157,5 @@ The samples have moved to [a new repository](https://github.com/swagger-api/swag
 ## Security contact
 
 Please disclose any security-related issues or vulnerabilities by emailing [security@swagger.io](mailto:security@swagger.io), instead of using the public issue tracker.
+
+<!-- Test comment for dummy PR verification -->
