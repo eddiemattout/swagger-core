@@ -482,7 +482,7 @@
         <slf4j-version>2.0.9</slf4j-version>
         <jetty-version>9.4.56.v20240826g</jetty-version>
         <testng-version>7.9.0</testng-version>
-        <mockito-version>2.28.2</mockito-version>
+        <mockito-version>4.11.0</mockito-version>
         <rest-assured-version>4.5.1</rest-assured-version>
         <httpcomponents-version>4.5.14</httpcomponents-version>
         <commons-codec-version>1.17.2</commons-codec-version>
